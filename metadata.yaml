@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
     - http://es.wikipedia.org/wiki/Juan_Valera
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30986#De-varios-colores
 gutenberg_issued: '2010-01-16'
 gutenberg_type: Text
 identifiers:
